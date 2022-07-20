@@ -5,13 +5,7 @@
 
 <h3><a href='https://neast.xyz/'>website</a></h3
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADBAC2&background=FF000000&center=true&lines=stay+tuned+what+i'm+doing)](https://git.io/typing-svg)
-</div>
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/735388907772051497
-                            )](https://discord.com/users/735388907772051497)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADBAC2&background=FF000000&center=true&lines=stay+tuned+for+new+realeases)](https://git.io/typing-svg)
 </div>
 
 <!-- SOME INFORMATIONS -->
