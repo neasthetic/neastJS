@@ -7,10 +7,9 @@
 </div>
 
 ###  about me :
-&nbsp;├─ find my socials on <a href='https://neast.xyz/'>official website</a><br>
+&nbsp;├─ <a href='https://neast.xyz/'>official website</a><br>
 &nbsp;├─ computer science student & full-stack dev <br> 
 &nbsp;├─ former ESL admin and community manager on esports <br>
-&nbsp;├─ passionate for discord <br>
 &nbsp;├─ assembly hater but redbull lover <br>
 &nbsp;└─ currently working on personal projects
 
