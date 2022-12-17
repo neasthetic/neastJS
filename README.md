@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADBAC2&background=FF000000&center=true&lines=stay+tuned+for+new+realeases)](https://git.io/typing-svg)
 </div>
 
-###  about me :
+###  about me
 &nbsp;├─ <a href='https://neast.xyz/'>official website</a><br>
 &nbsp;├─ computer science student & full-stack dev <br> 
 &nbsp;├─ former ESL admin and community manager on esports <br>
