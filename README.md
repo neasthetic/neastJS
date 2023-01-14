@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/1005910757763993640/1032834510821269584/ezgif.com-gif-maker.gif">
 
-### <p align='center'>World it's a weird place</p>
+### <p align='center'>world it's a weird place</p>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADBAC2&background=FF000000&center=true&lines=stay+tuned+for+new+realeases)](https://git.io/typing-svg)
