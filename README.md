@@ -11,7 +11,7 @@
 &nbsp;・computer scientist <br> 
 &nbsp;・full-stack developer <br> 
 &nbsp;・community manager on esports scenery<br>
-&nbsp;・['assembly hater', 'redbull lover'] <br>
+&nbsp;・['assembly hater', 'java passionate', 'redbull lover'] <br>
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
