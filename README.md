@@ -7,11 +7,11 @@
 </div>
 
 ###  about me
-&nbsp;├─ <a href='https://neast.xyz/'>official website</a><br>
-&nbsp;├─ computer science student & full-stack dev <br> 
-&nbsp;├─ former ESL admin and community manager on esports <br>
-&nbsp;├─ assembly hater but redbull lover <br>
-&nbsp;└─ currently working on personal projects
+&nbsp;・<a href='https://neast.xyz/'>official website</a><br>
+&nbsp;・computer science student & full-stack dev <br> 
+&nbsp;・former ESL admin and community manager on esports <br>
+&nbsp;・assembly hater but redbull lover <br>
+&nbsp;・currently working on personal projects
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
