@@ -1,16 +1,16 @@
 <img src="https://cdn.discordapp.com/attachments/1005910757763993640/1032834510821269584/ezgif.com-gif-maker.gif">
 
-### <p align='center'>world it's a weird but funny place</p>
+### <p align='center'>World it's a weird place</p>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADBAC2&background=FF000000&center=true&lines=stay+tuned+for+new+realeases)](https://git.io/typing-svg)
 </div>
 
 ###  about me
-&nbsp;・<a href='https://neast.xyz/'>official website</a><br>
-&nbsp;・computer scientist and full-stack developer <br> 
-&nbsp;・worked as ESL admin and community manager on esports scenery<br>
-&nbsp;・['assembly hater','redbull lover'] <br>
+&nbsp;・<a href='https://neast.xyz/'>Official website</a><br>
+&nbsp;・Computer Scientist and Full-stack developer <br> 
+&nbsp;・Worked as ESL admin and Community Manager on esports scenery<br>
+&nbsp;・['assembly hater', 'redbull lover'] <br>
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
