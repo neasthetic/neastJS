@@ -7,9 +7,10 @@
 </div>
 
 ###  about me
-&nbsp;・<a href='https://neast.xyz/'>Official website</a><br>
-&nbsp;・Computer Scientist and Full-stack developer <br> 
-&nbsp;・Worked as ESL admin and Community Manager on esports scenery<br>
+&nbsp;・<a href='https://neast.xyz/'>official website</a><br>
+&nbsp;・computer scientist <br> 
+&nbsp;・full-stack developer <br> 
+&nbsp;・community manager on esports scenery<br>
 &nbsp;・['assembly hater', 'redbull lover'] <br>
 
 <p align='center'>
