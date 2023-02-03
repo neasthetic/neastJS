@@ -26,11 +26,13 @@
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="KOTLIN" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="PYTHON"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="C++"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br><br>
+  <img align="center" alt="C++"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="LUA" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"><br><br>
+  <img align="center" alt="R" src="https://img.shields.io/badge/R-14354C?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-  <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-22272e?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=white">
 </div><br>
 <!-- END LANG TECH-->
 
