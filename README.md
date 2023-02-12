@@ -11,6 +11,7 @@
 &nbsp;・computer scientist <br> 
 &nbsp;・full-stack developer <br> 
 &nbsp;・community manager on esports scenery<br>
+&nbsp;・working in different integrations using discord<br>
 &nbsp;・['assembly hater', 'java passionate', 'redbull lover'] <br>
 
 <p align='center'>
