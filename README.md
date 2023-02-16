@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADBAC2&background=FF000000&center=true&lines=Stay+tuned+for+new+realeases)](https://git.io/typing-svg)
 </div>
 
-###  About me
+###  About Me
 &nbsp;・<a href='https://neast.xyz/'>Official Website</a><br>
-&nbsp;・Software Engineer & Computer Scientist; <br>  
+&nbsp;・Software Engineer & Computer Scientist;<br> 
 &nbsp;・Community Manager on Esports Scenery;<br>
 &nbsp;・Working in different integrations using Discord;<br>
 &nbsp;・['assembly hater', 'java passionate', 'redbull lover'] <br>
