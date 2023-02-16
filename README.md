@@ -7,11 +7,10 @@
 </div>
 
 ###  About me
-&nbsp;・<a href='https://neast.xyz/'>Official website</a><br>
-&nbsp;・Software Engineer <br> 
-&nbsp;・Computer Scientist <br> 
-&nbsp;・Community Manager on Esports Scenery<br>
-&nbsp;・Working in different integrations using Discord<br>
+&nbsp;・<a href='https://neast.xyz/'>Official Website</a><br>
+&nbsp;・Software Engineer & Computer Scientist; <br>  
+&nbsp;・Community Manager on Esports Scenery;<br>
+&nbsp;・Working in different integrations using Discord;<br>
 &nbsp;・['assembly hater', 'java passionate', 'redbull lover'] <br>
 
 <p align='center'>
