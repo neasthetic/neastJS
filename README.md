@@ -1,17 +1,17 @@
 <img src="https://cdn.discordapp.com/attachments/1005910757763993640/1032834510821269584/ezgif.com-gif-maker.gif">
 
-### <p align='center'>world it's a weird place</p>
+### <p align='center'>World it's a weird place</p>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADBAC2&background=FF000000&center=true&lines=stay+tuned+for+new+realeases)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADBAC2&background=FF000000&center=true&lines=Stay+tuned+for+new+realeases)](https://git.io/typing-svg)
 </div>
 
-###  about me
-&nbsp;・<a href='https://neast.xyz/'>official website</a><br>
-&nbsp;・computer scientist <br> 
-&nbsp;・full-stack developer <br> 
-&nbsp;・community manager on esports scenery<br>
-&nbsp;・working in different integrations using discord<br>
+###  About me
+&nbsp;・<a href='https://neast.xyz/'>Official website</a><br>
+&nbsp;・Software Engineer <br> 
+&nbsp;・Computer Scientist <br> 
+&nbsp;・Community Manager on Esports Scenery<br>
+&nbsp;・Working in different integrations using Discord<br>
 &nbsp;・['assembly hater', 'java passionate', 'redbull lover'] <br>
 
 <p align='center'>
