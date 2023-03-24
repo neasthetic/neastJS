@@ -7,21 +7,19 @@
 </div>
 
 <div align="center">
-###  About Me
-&nbsp;・<a href='https://neast.xyz/'>Official Website</a><br>
+
 &nbsp;・Software Engineer & Computer Scientist;<br> 
-&nbsp;・Community Manager on Esports Scenery;<br>
 &nbsp;・Working in different integrations using Discord;<br>
 &nbsp;・['assembly hater', 'java passionate', 'redbull lover'] <br>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghostneast&theme=github-compact&hide_border=true&custom_title=Activity%20Graph&area=true&area_color=41B325&point=c8d1d9&color=c8d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghostneast&theme=github-compact&hide_border=true&custom_title=Activity%20Graph&area=true&area_color=41B325&point=c8d1d9&color=c8d1d9&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ghostneast&show_icons=true&count_private=true&hide_border=true&icon_color=35c751&text_color=c9d1d9&bg_color=35C751&hide_title=true" alt="neast github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ghostneast&show_icons=true&count_private=true&hide_border=true&icon_color=35c751&text_color=c9d1d9&bg_color=0d1117&hide_title=true&theme=dark" alt="neast github stats" />
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostneast&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostneast&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&hide_title=true" />
 </div>
 
 
