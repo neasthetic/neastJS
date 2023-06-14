@@ -4,7 +4,6 @@
 
 &nbsp;・Software Engineer & Computer Scientist,<br> 
 &nbsp;・Community Manager & Project Leader<br><br>
-&nbsp;Not all my commits are legit. Take a look [here](https://github.com/ghostneast/commit-faker)<br>
 </div>
 
 <p align='center'>
