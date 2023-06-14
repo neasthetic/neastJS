@@ -1,11 +1,10 @@
 <div align="center">
 
 ### Hey! What's up?
-#### ASAP 'neast' on internet world;
 
 &nbsp;・Software Engineer & Computer Scientist,<br> 
 &nbsp;・Community Manager & Project Leader<br><br>
-&nbsp;Not all my commits are legit. Some feats were made from [here](https://github.com/ghostneast/commit-faker)<br>
+&nbsp;Not all my commits are legit. Take a look [here](https://github.com/ghostneast/commit-faker)<br>
 </div>
 
 <p align='center'>
