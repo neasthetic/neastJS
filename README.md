@@ -4,6 +4,7 @@
 
 &nbsp;・Software Engineer & Computer Scientist,<br> 
 &nbsp;・Community Manager & Project Leader<br><br>
+&nbsp;Not working at this moment.
 </div>
 
 <p align='center'>
