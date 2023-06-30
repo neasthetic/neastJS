@@ -1,20 +1,35 @@
 <div align="center">
 
-### Hey! What's up?
-
-&nbsp;・Software Engineer & Computer Scientist,<br> 
-&nbsp;・Community Manager & Project Leader<br><br>
-&nbsp;Not working at this moment.
+&nbsp;・Software Engineer & Computer Scientist,<br><br> 
+![](https://komarev.com/ghpvc/?username=neastJS&color=blue)
 </div>
 
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-<div align='center'>
-
-![](https://komarev.com/ghpvc/?username=ghostneast&color=blue)
 <div>
 
 <!-- END LANG TECH-->
 
+```css
+[neast@drenated ~]$ godexe
 
+                        *(                                 neast@god
+                       ((                                  -----------------
+                     (((.                                  
+                  .(((/                                    Username: neast
+                ((((   (((/                                Twitter:  neastJS
+              (((    (((                                   Discord:  @webservice
+             (((    (((                                    Website:  null 
+             (((    ((((                                   Location: unknown
+               ((    ((((                                  -----------------
+                 ((   (((                                  
+        ****          ((         ***.                      
+     ************************      ****                    Occupation: Software Developer
+                                  ***                      Working on: Private Project
+          ******************    ***                        
+                                                           
+          ****************.                                
+    ***         ****** *                                   
+.*******                ** *******                         
+         *.************     ,*,******                      Addiction:  RedBull, nk
+            * * **    *                                    
+```
