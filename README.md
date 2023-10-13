@@ -8,8 +8,6 @@
 ```css
 [neast@drenated ~]$ godexe
                             
-Twitter:  neastJS
-Discord:  @webservice
 Website:  null 
 Location: Brazil
 
